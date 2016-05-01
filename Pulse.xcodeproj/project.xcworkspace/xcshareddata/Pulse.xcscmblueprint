@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8D03F921F0FF1B4AEBDAA8CF6DD454E282FC6A2A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D03F921F0FF1B4AEBDAA8CF6DD454E282FC6A2A" : 0,
+    "93A7E5DCE4F2FF6A368E32570464142655E6C266" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "916F69B1-B551-4085-AB9A-AD94B537AB32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D03F921F0FF1B4AEBDAA8CF6DD454E282FC6A2A" : "Pulse\/",
+    "93A7E5DCE4F2FF6A368E32570464142655E6C266" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pulse",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pulse.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/michaelevensen\/Pulse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D03F921F0FF1B4AEBDAA8CF6DD454E282FC6A2A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/michaelevensen\/SCPrototypes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93A7E5DCE4F2FF6A368E32570464142655E6C266"
+    }
+  ]
+}
